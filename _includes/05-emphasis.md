@@ -1,1 +1,2 @@
-good at video games and finding good music
+* good at video games
+* finding good music
